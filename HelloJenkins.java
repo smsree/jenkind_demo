@@ -1,4 +1,4 @@
-package Jenkins_Demo;
+
 public class HelloJenkins {
 
 	public static void main(String[] args) {
